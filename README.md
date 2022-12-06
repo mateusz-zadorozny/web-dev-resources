@@ -11,6 +11,9 @@ https://github.com/onwidget/astrowind
 Astroship template (with Tailwind and Alpine.js)
 https://github.com/surjithctly/astroship
 
+Apline docs
+https://alpinejs.dev/start-here
+
 Qwik:
 
 Qwind - Qwik&Tailwind template
