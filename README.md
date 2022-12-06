@@ -8,7 +8,8 @@ https://astro.build/
 Astro Wind template (with Tailwind)
 https://github.com/onwidget/astrowind
 
-Astroship template (with Tailwind and Alipne.js)
+Astroship template (with Tailwind and Alpine.js)
+https://github.com/surjithctly/astroship
 
 Qwik:
 
