@@ -1,4 +1,4 @@
-My list of most useful resources for Astro & Qwik builds
+My list of most useful resources for web builds:
 
 Astro:
 
@@ -26,3 +26,13 @@ Backend CMS:
 
 Firebase hosted CMS
 https://firecms.co/
+
+Load testing:
+
+K6
+https://k6.io/docs/get-started/running-k6/
+
+JavaScript development:
+
+JSDocs
+https://jsdoc.app/about-getting-started.html
