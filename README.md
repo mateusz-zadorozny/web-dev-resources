@@ -11,6 +11,9 @@ https://github.com/onwidget/astrowind
 Astroship template (with Tailwind and Alpine.js)
 https://github.com/surjithctly/astroship
 
+Cloudflare Pages
+https://developers.cloudflare.com/pages/how-to/www-redirect/ | www to root redirect
+
 Alpine docs
 https://alpinejs.dev/start-here
 
